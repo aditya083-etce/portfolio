@@ -19,7 +19,6 @@ function Home() {
                   👋🏻
                 </span>
               </h1>
-
               <h1 className="heading-name">
                 I'M
                 <strong className="main-name"> ADITYA BIKRAM MITRA </strong>
