@@ -10,7 +10,6 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiFirebase,
   SiHtml5,
   SiCss3,
   SiFlutter,

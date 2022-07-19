@@ -1,11 +1,9 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiLinux,
   SiVisualstudiocode,
   SiPostman,
   SiHeroku,
-  SiVercel,
   SiPycharm,
   SiCanva,
 } from "react-icons/si";
