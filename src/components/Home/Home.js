@@ -14,14 +14,16 @@ function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
+                Hey there, {" "}
                 <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span>
+                👋
+                </span>  &nbsp; 
+                how's it going ?
               </h1>
               <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> ADITYA BIKRAM MITRA </strong>
+                i'm
+                <strong className="main-name"> Aditya Bikram Mitra </strong>
+                this side. 
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>

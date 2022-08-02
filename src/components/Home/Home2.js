@@ -19,33 +19,37 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm passionate about web-development and I hope you have a wonderful time going through my website to catch glimpses of my work!
+
               <br />
-              <br />I am fluent in classics like
+              <br />
+              
+              Usually do much of my coding in 
               <i>
                 <b className="purple"> C++, Javascript and Python. </b>
               </i>
+              
               <br />
               <br />
-              My field of Interest's are exploring new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Frameworks </b>
-              </i>
+
+              I am also well-versed with 
+              <b className="purple"> Node.js </b> 
+              and
+              <i> <b className="purple"> {" "} Modern Javascript Library and Frameworks </b> </i> &nbsp; like <i> <b className="purple"> React.js </b> </i>
+
               <br />
               <br />
-              I have experience of building Web applications with
-              <b className="purple"> Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js</b>
-              </i>
+
+              Apart from programming, I'm also into
+              <b className="purple"> Photography. </b> At my leisure, I love to watch 
+              <i> <b className="purple"> {" "} Web Series and play games </b> </i> &nbsp; to have some fun.
+              <br />
+              <br />
+              Feel free to connect with me in case you are looking for a 
+              <i> <b className="purple"> {" "} prospective employer </b> </i> &nbsp; 
+              for your company or a 
+              <i> <b className="purple"> {" "} freelance worker.  </b> </i> &nbsp; 
+              Hope we have a great time working together!
             </p>
           </Col>
           <Col md={4} className="myAvtar">
